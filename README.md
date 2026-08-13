@@ -22,7 +22,7 @@ Networking theory (TCP handshakes, congestion control, etc.) is easy to read abo
 ## Building
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/sandipannas/Network-Throughput---Latency-Benchmarking-Tool--C-.git
 cd nettester
 make
 ```
